@@ -4,6 +4,7 @@ This is an old project i made, you can hook kernel functions for example: MmCopy
  - No External Library
  - Simple to use
  - Custom Shellcode
+ - Fully documented
 
 # KDtour
 A Simple Kernel Detour Library
